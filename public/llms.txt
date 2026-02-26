@@ -1,0 +1,28 @@
+# ReadLevel — llms.txt
+# https://readlevel.io
+
+## What this site is
+ReadLevel is a free, neutral readability checker. Users paste text and receive an instant reading level assessment, CEFR band estimate, grade equivalent, and plain-English explanation of who the text is suitable for. Text is analysed in the browser. Nothing is stored or sent to a server.
+
+## What ReadLevel is for
+- Checking how difficult a text is to read
+- Estimating CEFR level (A1–C2) of a text
+- Identifying whether text is appropriate for ESL learners, secondary students, or general readers
+- Accessibility and readability reviews
+
+## Guides available at /guides
+- CEFR and readability: how they relate
+- How to check if a text is suitable for ESL learners
+- Reading levels explained (A1 to C2)
+- Readability for UK secondary classrooms
+- Readability and accessibility: a practical guide
+- In the United States: CEFR vs ACTFL vs ILR
+
+## Tool
+- Free for single text checks
+- No sign-up required
+- No data stored
+- Advanced features (batch checking, document upload, API) in development
+
+## Contact
+readlevel.io
